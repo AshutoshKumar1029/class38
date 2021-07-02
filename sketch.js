@@ -12,7 +12,7 @@ function preload()
   gardenImg = loadImage("images/Garden.png")
   washroomImg= loadImage("images/Wash Room.png")
   livingroomImg = loadImage("images/Living Room.png")
-milkBottle = loadImage("images/milk.png")
+milkBottle = loadImage("images/Milk.png")
 }
 
 function setup() {
